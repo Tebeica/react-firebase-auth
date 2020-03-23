@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+If you wish to run this application, you will need to supply your own Firebase credentials to the .env file.
+
 ## Available Scripts
 
 In the project directory, you can run:
