@@ -4,17 +4,6 @@ import 'firebase/database';
 import dotenv from 'dotenv';
 
 
-// const config = {
-//     apiKey: "AIzaSyCerDZ3bME1ZHKzqRySAEPCYxoJIzd5mYQ",
-//     authDomain: "firstreact-9d694.firebaseapp.com",
-//     databaseURL: "https://firstreact-9d694.firebaseio.com",
-//     projectId: "firstreact-9d694",
-//     storageBucket: "firstreact-9d694.appspot.com",
-//     messagingSenderId: "936040294648",
-//     appId: "1:936040294648:web:ada6df8068e2881eab330d",
-//     measurementId: "G-N7KZZP65CY"
-// };
-
 dotenv.config();
 
 const config = {
